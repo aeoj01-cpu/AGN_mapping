@@ -13,12 +13,11 @@ It contains:
 - Open problems
     
 
-Example:
 
 # AGN Reverberation Mapping Project  
   
 ## Core Aim  
-Investigate frequency-dependent time lags using simulated BLR response functions and PYCCF.  
+Can frequency-resolved UV/optical lags reliably recover disk and BLR contributions under realistic sampling?
   
 ## Confirmed  
 - PYCCF works for noise-free data.  
@@ -28,8 +27,7 @@ Investigate frequency-dependent time lags using simulated BLR response functions
 - Lowest frequency lag negative with large error overlapping zero.  
   
 ## Next Steps  
-- Test effect of removing low-frequency filtering.  
-- Compare with direct CCF centroid.
+- Verify that your simulation pipeline produces physically correct and unbiased frequency-resolved lags.
 
 You update this every few days.
 
