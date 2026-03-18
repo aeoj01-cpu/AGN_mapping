@@ -22,6 +22,7 @@ Can frequency-resolved UV/optical lags reliably recover disk and BLR contributio
 ## Confirmed  
 - PYCCF works for noise-free data.  
 - Centroid lag differs from analytic mean due to response width.  
+- found a new method to find mean lag which is  more comparable to the PYCCF lag to allow us to compare 
   
 ## Current Issue  
 - Lowest frequency lag negative with large error overlapping zero.  
